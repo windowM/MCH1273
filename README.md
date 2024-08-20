@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm 창호</h1>
 
-<p> Blog : https://deeply-buttercup-ac1.notion.site/ea4573edf66141d180c72719e40a4734?pvs=4 </p>
 
 <h3 align="left">🛠Teck Satck🛠</h3>
 
